@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="jarvis-agent\docs\JARVIS-Agent(JPG).png" width="250px">
+<img src="./docs/JARVIS-Agent(JPG).png">
 
 **JARVIS Agent - ML-Ops made easy  
 ML-Ops scheduler & orchestration solution supporting Linux, macOS and Windows**
