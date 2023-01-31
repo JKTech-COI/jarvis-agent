@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://jktechnosoftltd-my.sharepoint.com/:i:/g/personal/rana_banerjee_jktech_com/EZ7qfTo9kBlBlpknduSoescBZBeSF89lrQZXT4QSjN-oVg?e=Y9YtU4" width="250px">
+<img src="jarvis-agent\docs\JARVIS-Agent(JPG).png" width="250px">
 
 **JARVIS Agent - ML-Ops made easy  
 ML-Ops scheduler & orchestration solution supporting Linux, macOS and Windows**
